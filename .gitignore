@@ -11,3 +11,5 @@ SalesforceMobileSDK-iOS/external/cordova-ios/cordova-ios/
 SalesforceMobileSDK-iOS/external/shared/
 
 SalesforceMobileSDK-iOS/shared/SalesforceNetworkSDK/
+
+*.xccheckout
