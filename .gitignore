@@ -1,1 +1,13 @@
 .DS_Store
+
+SalesforceMobileSDK-iOS/external/MKNetworkKit/
+
+SalesforceMobileSDK-iOS/external/ThirdPartyDependencies/
+
+SalesforceMobileSDK-iOS/external/appledoc/appledoc/
+
+SalesforceMobileSDK-iOS/external/cordova-ios/cordova-ios/
+
+SalesforceMobileSDK-iOS/external/shared/
+
+SalesforceMobileSDK-iOS/shared/SalesforceNetworkSDK/
