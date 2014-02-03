@@ -1,0 +1,11 @@
+.DS_Store
+xcuserdata
+project.xcworkspace
+artifacts
+
+/hybrid/SampleApps/ContactExplorer/build/
+/native/SalesforceNativeSDK/build/
+/shared/SalesforceOAuth/build/
+/hybrid/SampleApps/VFConnector/build/
+/native/SampleApps/RestAPIExplorer/build/
+/hybrid/SalesforceHybridSDK/build/
