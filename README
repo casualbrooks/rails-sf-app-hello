@@ -1,3 +1,3 @@
 hello
 
-"http://rails-sf-app-hello.herokuapp.com/hello":http://rails-sf-app-hello.herokuapp.com/hello
+<a href ="http://rails-sf-app-hello.herokuapp.com/hello">http://rails-sf-app-hello.herokuapp.com/hello</a>
